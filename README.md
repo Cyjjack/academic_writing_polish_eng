@@ -3,6 +3,6 @@ A Codex skill for researchers writing engineering papers in English. It draws on
 
 The skill can draft English prose from Chinese research notes, polish an existing paragraph with minimal changes, edit a full section, compare alternative phrasings, or review a manuscript for consistency. Its editing rules preserve numerical values, units, notation, technical terms, and the level of certainty supported by the original evidence.
 
-## Example
+# Example
 
 `$academic_writing_polish_eng` Polish the following Results paragraph. Make the comparison baseline clear, preserve all numerical values and figure references, and retain the uncertainty in the proposed mechanism.
