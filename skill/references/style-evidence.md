@@ -1,0 +1,62 @@
+# 按篇检索证据
+修订证据按 author-revision-casebook.md 的 RC 编号与 author-editing-decision-rules.md 的稿号/批注号检索。明确批注且后稿保留 > 署名修订 > 未署名版本差异 > 成稿措辞；等级只针对修改归属。一级例见验证章节演化，二级例见 RC-05。跨稿稳定性另外判断。
+计数单位为出现该模式的论文。每篇每类仅列首个候选，回溯时按页与短语定位。排除参考文献后检索，排版、他引、题注及方法中的同词会造成误命中；这些是索引而非逐项人工标注。
+- 训练 · 图证定位 · 2bb0a4683711 p.2 · as shown in Fig. 2, the pile diameter was scaled to D = 0.
+- 训练 · 比较基线 · 2bb0a4683711 p.4 · compared with sinusoidal waves with specific frequencies. 
+- 训练 · 证据解释 · 2bb0a4683711 p.12 · may be attributed to the ignorance of (1) interaction betw
+- 训练 · 目的与实施 · 948a682d347e p.1 · To this end, a fragility-based Tornado diagram method for 
+- 训练 · 图证定位 · 948a682d347e p.4 · as shown in Fig. 10(c), in which the hardening ratio, b = 
+- 训练 · 比较基线 · 948a682d347e p.10 · compared to the first-yield curvatures, as shown above in 
+- 训练 · 比较基线 · e7526d1b821e p.1 · compared with the lateral spreading loads [23]. Besides, t
+- 训练 · 适用条件 · e7526d1b821e p.1 · particularly for bridges supported by extended pile-shafts
+- 训练 · 图证定位 · e7526d1b821e p.5 · as shown in Fig. 5(c). The dense sand and liquefiable sand
+- 训练 · 目的与实施 · ebb359d3fa04 p.1 · To this end, several studies have developed various method
+- 训练 · 适用条件 · ebb359d3fa04 p.1 · particularly under strong excitations due to the neglectio
+- 训练 · 比较基线 · ebb359d3fa04 p.3 · compared with other types of components. Afterwards, the r
+- 训练 · 图证定位 · ebb359d3fa04 p.4 · As shown in Fig. 4, the probabilistic bridge restoration m
+- 训练 · 目的与实施 · 100540240301 p.1 · To this end, an excess-pore-pressure-ratio-based novel liq
+- 训练 · 图证定位 · 100540240301 p.2 · as shown in Fig. 1(a). This gently sloping ground commonly
+- 训练 · 比较基线 · 100540240301 p.5 · compared with a very fine but computationally cost fiber d
+- 训练 · 目的与实施 · ad1f98e409bb p.1 · To this end, a simplified finite-element (FE) model was de
+- 训练 · 比较基线 · ad1f98e409bb p.3 · compared to the loose sand layers observed during the 1995
+- 训练 · 比较基线 · 7eb7ba4f89f0 p.1 · compared to acceleration, displacement and time-re- lated 
+- 训练 · 目的与实施 · 7eb7ba4f89f0 p.10 · To this end, a set of 80 unscaled horizontal ground motion
+- 训练 · 证据解释 · 7eb7ba4f89f0 p.13 · may be attributed to (1) the zero-treatment of compressive
+- 训练 · 图证定位 · 7eb7ba4f89f0 p.15 · as shown in Fig. 4c. Except for the aforementioned IMs, us
+- 训练 · 目的与实施 · df9e6377cf82 p.3 · To this end, a quasi-static test is carried out on an inst
+- 训练 · 比较基线 · df9e6377cf82 p.3 · compared with more simplified limit equilibrium approaches
+- 训练 · 图证定位 · df9e6377cf82 p.3 · As shown in Fig. 1, the actuator is vertically supported b
+- 训练 · 证据解释 · df9e6377cf82 p.11 · may be attributed to the slight overestimations of (1) str
+- 训练 · 目的与实施 · c946da2c6ee9 p.1 · To this end, t w oi d e n t i c a lm o d e l s ,e a c hc o
+- 训练 · 比较基线 · c946da2c6ee9 p.2 · Compared with centrifuge and in ‐situ tests, the one ‐g sh
+- 训练 · 证据解释 · c946da2c6ee9 p.6 · may be attributed to some softening in the saturated sands
+- 训练 · 比较基线 · 3d8af1cf23cf p.2 · compared with group-pile-cap foundations and offer greater
+- 训练 · 目的与实施 · 3d8af1cf23cf p.7 · To this end, Wang et al. (2017) recently proposed a simpli
+- 训练 · 证据解释 · 3d8af1cf23cf p.11 · can be attributed to the zero-treatment of compressive str
+- 训练 · 目的与实施 · 32eba9252633 p.1 · To this end, reinforced concrete bridge models, each consi
+- 训练 · 图证定位 · 32eba9252633 p.4 · as shown in Fig. 4, together with their Arias intensity (A
+- 训练 · 比较基线 · 32eba9252633 p.5 · compared to the complete scour sce- nario should be attrib
+- 训练 · 证据解释 · 32eba9252633 p.8 · may be attributed to cracks and settlements of the crust (
+- 训练 · 图证定位 · 8d6f2e11980b p.3 · as shown in Fig. 2) for this parameter in the Tornado diag
+- 训练 · 比较基线 · 8d6f2e11980b p.8 · compared to the abovementioned EDP of bearing deformation;
+- 训练 · 证据解释 · 8d6f2e11980b p.9 · may be attributed to the large pile deflection-induced den
+- 训练 · 目的与实施 · 2e8ce3588d71 p.1 · To this end, a probabilistic seismic demand model (PSDM) w
+- 训练 · 比较基线 · 2e8ce3588d71 p.1 · compared to traditional integer order IMs. In particular ,
+- 训练 · 比较基线 · ae68c1427052 p.1 · Compared with the conventional one, the results well demon
+- 训练 · 图证定位 · ae68c1427052 p.7 · As shown in Figs.2(c) and (d), the cover-thickness of the 
+- 训练 · 证据解释 · ae68c1427052 p.21 · may be attributed to the reduced seismic shear capacity du
+- 训练 · 比较基线 · 72d7ad9e9acd p.1 · compared with the fully embedd ed pile-cap foundation, the
+- 训练 · 比较基线 · 167b8e95bce5 p.2 · compared with the traditional IMs for PSDMs of highway bri
+- 训练 · 证据解释 · 167b8e95bce5 p.20 · may be attributed to the fact that a stiffer bridge has a 
+- 训练 · 图证定位 · 64b2d59a44a5 p.6 · as shown in Fig. 2a), to account for the hydrodynamic effe
+- 训练 · 适用条件 · 64b2d59a44a5 p.9 · particularly for the low seismic design level, where the r
+- 训练 · 目的与实施 · 64b2d59a44a5 p.11 · To this end, a nonlinear finite element model of a typical
+- 验证 · 目的与实施 · f76f158c8802 p.1 · To this end, uneconomical high demands on reinforcement ra
+- 验证 · 比较基线 · f76f158c8802 p.2 · compared to shake-table test, the quasi-static test is sti
+- 验证 · 证据解释 · f76f158c8802 p.4 · may be attributed to the fact that the ground motion durat
+- 验证 · 图证定位 · f76f158c8802 p.12 · as shown in Fig. 19 (a), it is reasonable to infer that th
+- 验证 · 目的与实施 · 9f1874ac0cff p.2 · To this end, the availability and fidelity of restoration 
+- 验证 · 比较基线 · 9f1874ac0cff p.10 · compared with bounded laminated rubber bearings, thereby U
+- 验证 · 图证定位 · 9f1874ac0cff p.19 · as shown in Figure 8(b). The fixed bearing is mimicked by 
+
+{('训练', '图证定位'): 11, ('训练', '比较基线'): 16, ('训练', '证据解释'): 9, ('训练', '目的与实施'): 11, ('训练', '适用条件'): 3, ('验证', '目的与实施'): 2, ('验证', '比较基线'): 2, ('验证', '证据解释'): 1, ('验证', '图证定位'): 2}
